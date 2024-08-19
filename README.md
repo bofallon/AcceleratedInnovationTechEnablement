@@ -1,6 +1,6 @@
 # AcceleratedInnovationTechEnablement
 Shared Repo for Tech Enablement
-# Test of Push
+
 # Steps to start the exercise.
 # 1. Start up a virtual environment
 # python3 -m venv venv
